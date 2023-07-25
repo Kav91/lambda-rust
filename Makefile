@@ -1,5 +1,5 @@
 VERSION ?= 0.4.0
-RUST_VERSION ?= 1.63.0
+RUST_VERSION ?= 1.71.0
 REPO ?= kav91/lambda-rust
 TAG ?= "$(REPO):$(VERSION)-rust-$(RUST_VERSION)"
 
